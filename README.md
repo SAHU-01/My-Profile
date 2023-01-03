@@ -1,2 +1,2 @@
 # My-Profile
-Personal Profile Website built with HTML,CSS and JAVASCRIPT 
+Personal Portfolio Website built with HTML,CSS and JAVASCRIPT 
